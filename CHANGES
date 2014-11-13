@@ -1,6 +1,6 @@
 Revision history for Perl module Net::Amazon::S3:
 
-{{$NEXT}}
+0.59 Thu Nov 13 13:49:21 AEDT 2014
 
 0.59 Sat Mar 17 09:36:38 GMT 2013
     - Added support for security token authentication (patch by Miquel Ruiz)
